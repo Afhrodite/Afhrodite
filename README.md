@@ -70,6 +70,6 @@
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="git" width="45" height="45"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="github" width="45" height="45"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="45" height="45"/>
   </a>
 </p>
