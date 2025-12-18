@@ -81,3 +81,21 @@
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="45" height="45"/>
   </a>
 </p>
+
+### 🚀 Currently Learning:
+<p align="left">
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <!-- OpenCV icon (via simple‑icons CDN) -->
+    <img src="https://cdn.simpleicons.org/opencv" alt="Computer Vision" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+    <!-- MLflow icon (a common MLOps tool) -->
+    <img src="https://cdn.simpleicons.org/mlflow" alt="MLflow / MLOps" width="40" height="40"/>
+  </a>
+</p>
