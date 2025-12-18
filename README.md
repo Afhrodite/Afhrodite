@@ -10,7 +10,11 @@
   <a href="https://www.linkedin.com/in/r%C3%A9ka-g%C3%A1bosi-8490b8109/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/u/Afhrodite/" target="_blank" rel="noreferrer">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
