@@ -86,6 +86,8 @@
   </a>
 </p>
 
+---
+
 ### 🚀 Currently Learning:
 <p align="left">
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
